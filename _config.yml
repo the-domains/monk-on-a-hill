@@ -1,4 +1,3 @@
-layout_spectrum: 0.9241974730975926
 typography_spectrum: 0.375121416291222
 color:
   brandStrength: 0.4300774072762579
@@ -6,9 +5,13 @@ color:
   saturation: 0.46839596750214696
   rhythmicContrast: 0.027602386428043246
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.9241974730975926
+author:
+  name: Mike Revoir
+  email: mrevoir@gmail.com
 name: Monk on a Hill
