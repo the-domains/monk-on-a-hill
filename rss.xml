@@ -4,8 +4,15 @@
         <description><![CDATA[Husband. Father. Shepherd. Nerd.]]></description>
         <link>https://thegrid.ai/monk-on-a-hill/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 19:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 19:04:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/monk-on-a-hill/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Icons - Style - Material design guidelines]]></title>
+            <description><![CDATA[<article><h1>Icons - Style - Material design guidelines</h1><p>Product icons are the visual expression of a brand's products, services, and tools. Simple, bold, and friendly, they communicate the core idea and intent of a product. While each product icon is visually distinct, all product icons for a given brand should be unified through concept and execution.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d9784a858e229b57debe831a9500500a/noop.png?input=https%3A%2F%2Fmaterial-design.storage.googleapis.com%2Fpublish%2Fmaterial_v_4%2Fsocial.png"></article>]]></description>
+            <link>https://material.google.com/style/icons.html#icons-system-icons</link>
+            <guid isPermaLink="false">b26802d4-f406-457a-b750-7a398689e875</guid>
+            <pubDate>Wed, 31 Aug 2016 19:04:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Typography - Style - Material design guidelines]]></title>
             <description><![CDATA[<article><h1>Typography - Style - Material design guidelines</h1><p>Roboto has been refined extensively to work across the wider set of supported platforms. It is slightly wider and rounder, giving it greater clarity and making it more optimistic. Roboto has six weights: Thin, Light, Regular, Medium, Bold, and Black. Noto's vertical metrics are compatible with Roboto.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d9784a858e229b57debe831a9500500a/noop.png?input=https%3A%2F%2Fmaterial-design.storage.googleapis.com%2Fpublish%2Fmaterial_v_4%2Fsocial.png"></article>]]></description>
